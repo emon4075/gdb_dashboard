@@ -1,0 +1,2 @@
+dashboard source -style height 15
+dashboard -layout breakpoints source stack threads variables
